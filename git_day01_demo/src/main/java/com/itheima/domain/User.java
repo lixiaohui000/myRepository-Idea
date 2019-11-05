@@ -7,5 +7,7 @@ public class User {
     Integer money;
 
     double qian;
+
+    Zhixian zhuxian;
 }
 
