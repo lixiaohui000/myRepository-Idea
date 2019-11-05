@@ -8,6 +8,6 @@ public class User {
 
     double qian;
 
-    Zhixian zhuxian;
+    Zhuxian zhuxian;
 }
 
